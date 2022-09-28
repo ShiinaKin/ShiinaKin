@@ -3,6 +3,8 @@ Hi, I’m @mashirot
 
 I am currently a university student in Shanghai
 
+[Own Blog](https://blog.mashiro.ski)
+
 #### Contact information
 [![Mail Badge](https://img.shields.io/badge/mashirotj@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mashirotj@gmail.com)](mailto:mashirotj@gmail.com)
 #### The language i can use
