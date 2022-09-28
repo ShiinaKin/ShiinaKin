@@ -15,5 +15,5 @@ I am currently a university student in Shanghai
 #### Want to learn in future
 ![Kotlin](https://camo.githubusercontent.com/a1da880d5cc0fb84edca408e88286a1e127c0c8c55a22c8062021d6cfd4f1520/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b6f746c696e2d3030366137313f7374796c653d706c6173746963266c6f676f3d6b6f746c696e)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mashirot&show_icons=true&include_all_commits=true)](https://github.com/mashirot/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashirot&layout=compact)](https://github.com/mashirot/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mashirot&show_icons=true&include_all_commits=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashirot&layout=compact)]
