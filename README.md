@@ -22,4 +22,4 @@ I am currently a university student in Shanghai
 
 ![mashirot's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashirot&count_private=true&show_icons=true&theme=radical)
 </br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mashirot&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mashirot&layout=compact&theme=radical)
