@@ -21,4 +21,5 @@ I am currently a university student in Shanghai
 ![Rust](https://img.shields.io/badge/-Rust-orange)
 
 ![mashirot's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashirot&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mashirot)
+</br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mashirot&theme=radical)
