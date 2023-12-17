@@ -6,7 +6,7 @@ I am currently a university student in Shanghai
 [Own Blog](https://blog.mashiro.ski)
 
 #### Contact information
-[![Mail Badge](https://img.shields.io/badge/mashirotj@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mashirotj@gmail.com)](mailto:mashirotj@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/shiina@sakurasou.io-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shiina@sakurasou.io)](mailto:shiina@sakurasou.io)
 
 #### The language i can use
 ![Java](https://img.shields.io/badge/Java-orange)
