@@ -9,16 +9,16 @@ I am currently a university student in Shanghai
 [![Mail Badge](https://img.shields.io/badge/shiina@sakurasou.io-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shiina@sakurasou.io)](mailto:shiina@sakurasou.io)
 
 #### The language i can use
-![Java](https://img.shields.io/badge/Java-orange)
-![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?logo=Kotlin&color=lightgray)
-![Vue](https://img.shields.io/badge/Vue.js-Vue?logo=Vue.js&color=lightgray)
-![HTML](https://img.shields.io/badge/HTML5-HTML?logo=HTML5&color=lightgray)
-![C](https://img.shields.io/badge/C-C?logo=C&color=lightgray)
-![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?logo=TypeScript&color=lightgray)
+![Java](https://img.shields.io/badge/Java-Java?logo=openjdk&color=gray)
+![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?logo=Kotlin&color=gray)
+![Vue](https://img.shields.io/badge/Vue.js-Vue?logo=Vue.js&color=gray)
+![HTML](https://img.shields.io/badge/HTML5-HTML?logo=HTML5&color=gray)
+![C](https://img.shields.io/badge/C-C?logo=C&color=gray)
+![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?logo=TypeScript&color=gray)
 
 #### Want to learn in future
-![Rust](https://img.shields.io/badge/Rust-Rust?logo=Rust&color=lightgray)
-![Python](https://img.shields.io/badge/Python-Python?logo=Python&color=lightgray)
+![Rust](https://img.shields.io/badge/Rust-Rust?logo=Rust&color=gray)
+![Python](https://img.shields.io/badge/Python-Python?logo=Python&color=gray)
 
 ![mashirot's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashirot&count_private=true&show_icons=true&theme=radical)
 </br>
