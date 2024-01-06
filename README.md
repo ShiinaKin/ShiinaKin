@@ -1,7 +1,7 @@
 ## About Me
 Hi, I’m @mashirot
 
-I am currently a university student in Shanghai
+I am currently a college student in Shanghai
 
 [Own Blog](https://blog.mashiro.ski)
 
