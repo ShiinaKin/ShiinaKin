@@ -15,6 +15,7 @@ I am currently a college student in Shanghai
 ![HTML](https://img.shields.io/badge/HTML5-HTML?logo=HTML5&color=gray)
 ![C](https://img.shields.io/badge/C-C?logo=C&color=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?logo=TypeScript&color=gray)
+![Shell](https://img.shields.io/badge/Shell-Shell?logo=gnubash&color=gray)
 
 #### Want to learn in future
 ![Rust](https://img.shields.io/badge/Rust-Rust?logo=Rust&color=gray)
