@@ -21,6 +21,6 @@ I am currently a college student in Shanghai
 ![Rust](https://img.shields.io/badge/Rust-Rust?logo=Rust&color=gray)
 ![Python](https://img.shields.io/badge/Python-Python?logo=Python&color=gray)
 
-![mashirot's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashirot&count_private=true&show_icons=true&theme=radical)
+![mashirot's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShiinaKin&count_private=true&show_icons=true&theme=radical)
 </br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mashirot&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShiinaKin&layout=compact&theme=radical)
