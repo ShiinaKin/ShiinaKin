@@ -1,9 +1,9 @@
 ## About Me
-Hi, I’m @mashirot
+Hi, I’m @ShiinaKin
 
 I am currently a college student in Shanghai
 
-[Own Blog](https://blog.mashiro.ski)
+[Own Blog](https://blog.sakurasou.io)
 
 #### Contact information
 [![Mail Badge](https://img.shields.io/badge/shiina@sakurasou.io-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shiina@sakurasou.io)](mailto:shiina@sakurasou.io)
