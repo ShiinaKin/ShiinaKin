@@ -15,11 +15,11 @@ I am currently a college student in Shanghai
 ![HTML](https://img.shields.io/badge/HTML5-HTML?logo=HTML5&color=gray)
 ![C](https://img.shields.io/badge/C-C?logo=C&color=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?logo=TypeScript&color=gray)
+![Python](https://img.shields.io/badge/Python-Python?logo=Python&color=gray)
 ![Shell](https://img.shields.io/badge/Shell-Shell?logo=gnubash&color=gray)
 
 #### Want to learn in future
 ![Rust](https://img.shields.io/badge/Rust-Rust?logo=Rust&color=gray)
-![Python](https://img.shields.io/badge/Python-Python?logo=Python&color=gray)
 
 ![mashirot's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShiinaKin&count_private=true&show_icons=true&theme=radical)
 </br>
