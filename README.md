@@ -12,6 +12,7 @@ I am currently a college student in Shanghai
 ![Java](https://img.shields.io/badge/Java-Java?logo=openjdk&color=gray)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?logo=Kotlin&color=gray)
 ![Vue](https://img.shields.io/badge/Vue.js-Vue?logo=Vue.js&color=gray)
+![Angular](https://img.shields.io/badge/Angular-angular?logo=angular&color=gray)
 ![HTML](https://img.shields.io/badge/HTML5-HTML?logo=HTML5&color=gray)
 ![C](https://img.shields.io/badge/C-C?logo=C&color=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?logo=TypeScript&color=gray)
@@ -21,6 +22,6 @@ I am currently a college student in Shanghai
 #### Want to learn in future
 ![Rust](https://img.shields.io/badge/Rust-Rust?logo=Rust&color=gray)
 
-![mashirot's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShiinaKin&count_private=true&show_icons=true&theme=radical)
+![shiinakin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShiinaKin&count_private=true&show_icons=true&theme=radical)
 </br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShiinaKin&layout=compact&theme=radical)
